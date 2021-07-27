@@ -1,0 +1,2 @@
+smartmore Day2
+let's test git

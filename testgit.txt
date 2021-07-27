@@ -1,3 +1,4 @@
 smartmore Day2
 let's test git
 Git is a version control system
+Git is free software distributed under the GPL
